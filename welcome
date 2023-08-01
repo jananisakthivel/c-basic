@@ -1,5 +1,5 @@
-#include,conio.h>
-#inclue<stdio.h>
+#include<stdio.h>
+#inclue<conio.h>
 void main()
 {
 printf("welcome");
